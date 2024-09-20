@@ -210,11 +210,5 @@ Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 - **Phase 4:** Develop a mobile application for real-time updates and notifications.
 
 ## License
-
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
-
-### Summary:
-- **Complete Structure:** This README includes details for professional developers, covering architecture, API documentation, configuration, CI/CD, and more.
-- **API Documentation:** Provides a clear breakdown of the available endpoints and how to handle errors.
-- **Tech Stack & Features:** Clear explanation of the technologies used and the features provided by the system.
+``‘ 
