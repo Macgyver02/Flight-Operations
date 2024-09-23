@@ -212,6 +212,7 @@ Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+```
 
 ### Summary:
 - **Complete Structure:** This README includes details for professional developers, covering architecture, API documentation, configuration, CI/CD, and more.
