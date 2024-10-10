@@ -1,6 +1,5 @@
 # Flight Operations
 
-
 ![License](https://img.shields.io/github/license/Macgyver02/Flight-Operations)
 ![Version](https://img.shields.io/github/package-json/v/Macgyver02/Flight-Operations)
 ![Build Status](https://img.shields.io/github/actions/workflow/status/Macgyver02/Flight-Operations/ci.yml)
